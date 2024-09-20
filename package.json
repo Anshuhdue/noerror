@@ -6,9 +6,9 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "dev": "nodemon src/app",
-    "build": "tsc",
-    "start": "nodemon src/app",
+    "build": "next build",
+  "start": "next start",
+  "dev": "next dev",
     "lint": "next lint"
   },
   "dependencies": {
