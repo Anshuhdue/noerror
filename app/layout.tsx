@@ -39,9 +39,9 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Anshu Gupta — Full-Stack Developer",
     description:
-      "Full-Stack Developer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+      "Full-Stack Developer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Kolkata, India.",
     url: "developeranshu.online",
-    siteName: "www.victorwilliams.me",
+    siteName: "",
     images: [
       {
         url: "",
@@ -57,11 +57,11 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Anshu Gupta — Full-Stack Developer",
     description:
-      "Full-Stack Developer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
-    creator: "victorwill__",
+      "Full-Stack Developer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Kolkata, India.",
+    creator: "",
     creatorId: "1243720976552144897",
     images: [
-      "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+      "",
     ],
   },
   robots: {
